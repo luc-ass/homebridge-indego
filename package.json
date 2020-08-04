@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-indego",
+  "version": "0.0.1",
+  "description": "Homebridge plugin to connect Bosch Indego Lawn Mowers to Apple HomeKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luc-ass/homebridge-indego.git"
+  },
+  "keywords": [
+    "Homekit",
+    "Homebridge",
+    "Bosch",
+    "Indego",
+    "Lawn",
+    "Mower"
+  ],
+  "author": "Lucas Gasenzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luc-ass/homebridge-indego/issues"
+  },
+  "homepage": "https://github.com/luc-ass/homebridge-indego#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
